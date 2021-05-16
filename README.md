@@ -3,6 +3,10 @@
 - Designed and Tested on Python 3.7.3 for Linux and Windows
 - If you would like a custom version of this bot please create a ticket in my [discord](https://discord.gg/kejhHFrA9t)!
 
+<p align="center">
+  <img height="186" width="585" alt="" src="https://media.discordapp.net/attachments/828110039956455444/843594317763313734/unknown.png" />
+</p>
+
 ---
 ### Features:
 - With the Anti-Raid enabled, this bot will auto-kick all new members automatically upon joining of your server. Allowing you to keep all of your discord invite links active!
