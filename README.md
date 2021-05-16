@@ -4,7 +4,7 @@
 - If you would like a custom version of this bot please create a ticket in my [discord](https://discord.gg/kejhHFrA9t)!
 
 <p align="center">
-  <img height="190" width="590" alt="" src="https://media.discordapp.net/attachments/828110039956455444/843594317763313734/unknown.png" />
+  <img src="https://media.discordapp.net/attachments/828110039956455444/843594317763313734/unknown.png" />
 </p>
 
 ---
