@@ -4,7 +4,7 @@
 - If you would like a custom version of this bot please create a ticket in my [discord](https://discord.gg/kejhHFrA9t)!
 
 ---
-###Features:
+### Features:
 - With the Anti-Raid enabled, this bot will auto-kick all new members automatically upon joining of your server. Allowing you to keep all of your discord invite links active!
 - Upon running the command to enable Anti-Raid, the bot will auto-kick all new members who joined in the last 10 minutes (this value can be adjusted in the config.py file). 
 - Simple permissions system for use of the antiraid commands.
