@@ -8,6 +8,7 @@
 - With the Anti-Raid enabled, this bot will auto-kick all new members automatically upon joining of your server. Allowing you to keep all of your discord invite links active!
 - Upon running the command to enable Anti-Raid, the bot will auto-kick all new members who joined within the last 10 minutes (this value can be adjusted in the [config.py](https://github.com/WebTheDev/Anti-RaidBot/blob/main/config.py) file). 
 - Simple permissions system for use of the antiraid commands.
+- Auto 5 Minute slowmode for channel that the antiraid command is executed in. (Will be removed upon running disable antiraid command)
 - DM's Member on Auto-Kick
 - Custom Embed Footers
 - Logging for all Auto-Kicks and use of the Anti-Raid system.
