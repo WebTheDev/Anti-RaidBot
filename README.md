@@ -34,3 +34,6 @@
 ---
 ### Known Errors:
 Listed below are known errors that can not be solved due to discord limiations not software bugs:
+- Task Run Errors.
+- Discord Related Errors
+- Ratelimits (similar to dyno or carl), discord only allows you to do so much at once. This can result in the antiraid command or kicking members to be a bit laggy. The bigger the server, the more likely that the bot can be a bit laggy. 
